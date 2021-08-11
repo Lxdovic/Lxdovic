@@ -9,7 +9,7 @@
 ### Stats : 
 ![](https://github-readme-stats.vercel.app/api?username=LudovicDEBEVER&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudovicDEBEVER&theme=tokyonight&layout=default&card_width=500)](https://github.com/LudovicDEBEVER/LudovicDEBEVER)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudovicDEBEVER&theme=tokyonight&layout=default&card_width=495)](https://github.com/LudovicDEBEVER/LudovicDEBEVER)
 
 
 ### Repositories : 
