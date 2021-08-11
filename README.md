@@ -7,7 +7,7 @@
  - [<img src="https://i.imgur.com/EyHOmqX.png" width="30" height="30" top="100" />](https://twitter.com/rl_syx)
 
 ### Stats : 
-![](https://github-readme-stats.vercel.app/api?username=LudovicDEBEVER&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=LudovicDEBEVER&show_icons=true&theme=tokyonight&hide_title=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudovicDEBEVER&theme=tokyonight&layout=default&card_width=495)](https://github.com/LudovicDEBEVER/LudovicDEBEVER)
 
