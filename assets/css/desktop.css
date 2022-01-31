@@ -1,0 +1,71 @@
+@media screen and (min-width: 1000px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        position: sticky;
+        top: 0;
+        left: 0;
+        width: 100px;
+        height: 100vh;
+        padding: 50px;
+        border: 1px solid red;
+    }
+
+    header a {
+        font: lighter 1em 'Bahnschrift', sans-serif;
+        color: rgb(117, 117, 117);
+        text-decoration: none;
+    }
+
+    header li {
+        line-height: 24px;
+        letter-spacing: 0px;
+    }
+
+    #logo {
+        margin: 0 0 50px 0;
+        width: 50px;
+    }
+
+    #main-menu {
+        list-style-type: none;
+        margin: 0 0 50px 0;
+    }
+
+    #projects-title {
+        margin: 0 0 10px 0;
+        font: bold 1em 'Bahnschrift', sans-serif;
+    }
+
+    #projects-menu {
+        list-style-type: none;
+    }
+
+    main {
+        display: grid;
+        grid-auto-columns: 300px;
+        padding: 50px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: calc(100vw - 320px);
+        border: 1px solid blue;
+    }
+
+    .project {
+        overflow: hidden;
+        width: 300px;
+        border: 1px solid gray;
+    }
+    
+    .project img {
+        height: 200px;
+    }
+
+    .project-label {
+        font: bolder 2em 'Bahnschrift', sans-serif;
+    }
+}
