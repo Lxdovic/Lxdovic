@@ -11,6 +11,10 @@
         scrollbar-width: thin;
     }
 
+    a {
+        text-decoration: none;
+    }
+
     body {
         overflow-y: hidden;
     }

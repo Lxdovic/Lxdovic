@@ -21,6 +21,10 @@
         overflow-x: hidden;
     }
 
+    a {
+        text-decoration: none;
+    }
+
     main {
         overflow-y: hidden;
     }
