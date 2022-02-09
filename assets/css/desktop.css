@@ -1,26 +1,41 @@
 @media screen and (min-width: 1000px) {
+    @keyframes project-anim {
+        from {background: transparent}
+        to {background: white}
+    }
+  
     * {
         margin: 0;
         padding: 0;
+        scrollbar-color: rebeccapurple green;
+        scrollbar-width: thin;
     }
 
-    header {
+    body {
+        overflow-y: hidden;
+    }
+
+    #burger {
+        display: none;
+    }
+
+    #navigation {
         position: sticky;
         top: 0;
         left: 0;
         width: 100px;
         height: 100vh;
         padding: 50px;
-        border: 1px solid red;
+        box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, .5);
     }
 
-    header a {
+    #navigation a {
         font: lighter 1em 'Bahnschrift', sans-serif;
         color: rgb(117, 117, 117);
         text-decoration: none;
     }
 
-    header li {
+    #navigation li {
         line-height: 24px;
         letter-spacing: 0px;
     }
@@ -44,28 +59,84 @@
         list-style-type: none;
     }
 
-    main {
+    .projects-grid {
+        background: url(/assets/images/bg.svg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        overflow-x: hidden;
+        overflow-y: scroll;
+        height: 100vh;
         display: grid;
-        grid-auto-columns: 300px;
-        padding: 50px;
+        grid-gap: 40px;
+        justify-content: center;
+        grid-template-columns: repeat(auto-fill, 300px);
+        grid-template-rows: repeat(auto-fill, 300px);
+        padding: 25px 50px 50px 25px;
         position: absolute;
         top: 0;
         right: 0;
-        width: calc(100vw - 320px);
-        border: 1px solid blue;
+        width: calc(100vw - 248px);
     }
 
     .project {
+        border-radius: 3px;
+        cursor: pointer;
+        position: relative;
+        height: 250px;
         overflow: hidden;
-        width: 300px;
-        border: 1px solid gray;
-    }
-    
-    .project img {
-        height: 200px;
+        text-align: center;
+        background: white;
+        transition: all .25s ease-in-out;
     }
 
-    .project-label {
-        font: bolder 2em 'Bahnschrift', sans-serif;
+    .project:hover {
+        background: white;
+        box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, .5);
+    }
+
+    .project h2 {
+        text-transform: uppercase;
+        color: black;
+        font: bolder 1.8em 'Bahnschrift', sans-serif;
+        transition: all .25s ease-in-out;
+        transform: translateY(10px);
+    }
+
+    .project:hover h2 {
+        transform: translateY(70px);
+    }
+
+    .project p {
+        padding: 10px;
+        font: lighter 1em 'Bahnschrift', sans-serif;
+        transition: all .25s ease-in-out;
+        color: transparent;
+        height: 50px;
+        transform: translateY(0);
+    }
+
+    .project:hover p {
+        transform: translateY(40px);
+        color: gray;
+    }
+
+    .langs {
+        margin: auto;
+        width: 100px;
+        margin-top: 30px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .lang {
+        position: relative;
+        width: 20px;
+        height: 20px;
+        transition: all .25s ease-in-out;
+        opacity: 0;
+    }
+
+    .project:hover .lang {
+        opacity: 1;
     }
 }
