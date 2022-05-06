@@ -4,7 +4,7 @@
 ```
 20-year-old French student passionate about programming, video games and graphic design
 
-HTML, CSS, JS & NODE.JS (VUE, ELECTRON, +), PHP, SQL, C++
+HTML, CSS (TAILWIND.CSS), JS & NODE.JS (VUE.JS, ELECTRON.JS, THREE.JS+), PHP, SQL, C++
 ```
 
  ### Links :
