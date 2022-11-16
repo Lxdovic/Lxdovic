@@ -2,13 +2,15 @@
  ## Hey, welcome to my profile!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Lxdovic})
 ```
-20-year-old French student passionate about programming, video games and graphic design
+21-year-old French student passionate about programming, video games and graphic design
 
-HTML, CSS (TAILWIND.CSS), JS & NODE.JS (VUE.JS, ELECTRON.JS, THREE.JS+), PHP, SQL, C++
+Currently studying for a masters degree @epitech
+
+HTML, CSS (TAILWIND.CSS), JS & NODE.JS (REACT, EXPRESS, VUE.JS, ELECTRON.JS, THREE.JS, SOCKET.IO), JAVA OOP (SPRING BOOT  & JAVA, PHP, SQL, C++
 ```
 
  ### Links :
- [<img src="https://i.imgur.com/iDnvhM2.png" width="30" height="30"/>](https://www.lxdovic.fr)
+ [<img src="https://i.imgur.com/iDnvhM2.png" width="30" height="30"/>](https://lxdovic.fr)
 ### Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Lxdovic&show_icons=true&theme=tokyonight&hide_title=true)
 
