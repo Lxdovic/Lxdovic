@@ -2,7 +2,7 @@
  ## Hey, welcome to my profile!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Lxdovic})
 ```
-21-year-old French student passionate about programming, video games and graphic design
+22-year-old French student passionate about programming, video games and graphic design
 
 Currently studying for a masters degree @epitech
 
