@@ -6,7 +6,8 @@
 
 Currently studying for a masters degree @epitech
 
-HTML, CSS (TAILWIND.CSS), JS & NODE.JS (REACT, EXPRESS, VUE.JS, ELECTRON.JS, THREE.JS, SOCKET.IO), JAVA OOP (SPRING BOOT  & JAVA, PHP, SQL, C++
+Rust, JavaScript, TypeScript, Java
+React.js, Express.js, Nest.js Rocket.rs
 ```
 
  ### Links :
