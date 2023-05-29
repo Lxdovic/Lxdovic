@@ -11,10 +11,7 @@ HTML, CSS (TAILWIND.CSS), JS & NODE.JS (REACT, EXPRESS, VUE.JS, ELECTRON.JS, THR
 
  ### Links :
  [<img src="https://i.imgur.com/iDnvhM2.png" width="30" height="30"/>](https://lxdovic.fr)
-### Stats :
-![](https://github-readme-stats.vercel.app/api?username=Lxdovic&show_icons=true&theme=tokyonight&hide_title=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lxdovic&theme=tokyonight&layout=default&card_width=495)](https://github.com/Lxdovic/Lxdovic)
 
 
 ### Repositories : 
