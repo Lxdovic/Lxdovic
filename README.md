@@ -17,10 +17,10 @@ React.js, Express.js, Nest.js Rocket.rs
 
 ### Repositories : 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Chess-Challenge&theme=tokyonight&card_width=400)](https://github.com/Lxdovic/Chess-Challenge)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Weakfish&theme=tokyonight&card_width=400)](https://github.com/Lxdovic/Weakfish)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=IRC&theme=tokyonight&card_width=400)](https://github.com/Lxdovic/IRC)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Pathfinder&theme=tokyonight&card_width=400)](https://github.com/Lxdovic/Pathfinder)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=FullTextSearchEngine&theme=tokyonight&card_width=400)](https://github.com/Lxdovic/FullTextSearchEngine)
