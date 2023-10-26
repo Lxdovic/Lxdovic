@@ -38,17 +38,17 @@
 <h3 align="left"> Stats & Repos </h3>
 
 <a href="https://github.com/Lxdovic/Lxdovic">
-  <img height="183" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lxdovic&layout=compact&langs_count=4&theme=radical" />
+  <img width=38.5%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lxdovic&layout=compact&langs_count=4&theme=radical" />
 </a>
 
 <a href="https://github.com/Lxdovic/Weakfish">
-  <img height="183" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Weakfish&theme=radical" />
+  <img width="60.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Weakfish&theme=radical" />
 </a>
 
 <a href="https://github.com/Lxdovic/Chess-Challenge">
-  <img width="501" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Chess-Challenge&theme=radical" />
+  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Chess-Challenge&theme=radical" />
 </a>
 
 <a href="https://github.com/Lxdovic/IRC">
-  <img width="501" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=IRC&theme=radical" />
+  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=IRC&theme=radical" />
 </a>
