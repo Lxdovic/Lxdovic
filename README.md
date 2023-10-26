@@ -1,24 +1,54 @@
 
- ## Hey, welcome to my profile!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${Lxdovic})
-```
-22-year-old French student passionate about programming
+<h1 align="center">Welcome to my Github 👋</h1>
 
-Currently studying for a masters degree @epitech
+<h1 align="center" style="margin-top: 24px"">Ludovic Debever - Fullstack Developer</h1>
 
-Rust, JavaScript, TypeScript, Java, C#,
-React.js, Express.js, Nest.js, Rocket.rs,
-```
+<h3 align="center"> Favorite Languages </h3>
+<p align="center" style="margin-top: 24px">
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/csharp%20-%23360092.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
 
- ### Links :
- [<img src="https://i.imgur.com/iDnvhM2.png" width="30" height="30"/>](https://lxdovic.fr)
+<h3 align="center"> Frameworks </h3>
+<p align="center" style="margin-top: 24px">
+  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/phoenix%20-%23663399.svg?&style=for-the-badge&logo=phoenixframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/reactjs%20-%2338BDF8.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss%20-%2338BDF8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vuejs%20-%233FB984.svg?&style=for-the-badge&logo=vuejs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/express%20-%233AB439.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-### Repositories : 
+<h3 align="center"> Databases </h3>
+<p align="center" style="margin-top: 24px">
+  <img src="https://img.shields.io/badge/postgresql%20-%23323330.svg?&style=for-the-badge&logo=postgresql&logoColor=%green"/>
+  <img src="https://img.shields.io/badge/mongoDB%20-%23323330.svg?&style=for-the-badge&logo=mongodb&logoColor=%green"/>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Chess-Challenge&theme=tokyonight&card_width=400)](https://github.com/Lxdovic/Chess-Challenge)
+<h3 align="center"> Tools </h3>
+<p align="center" style="margin-top: 24px">
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23FCA121.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Weakfish&theme=tokyonight&card_width=400)](https://github.com/Lxdovic/Weakfish)
+<h3 align="left"> Links </h3>
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Flxdovic.fr&style=for-the-badge&label=lxdovic.fr&color=%239C00FC"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=IRC&theme=tokyonight&card_width=400)](https://github.com/Lxdovic/IRC)
+<h3 align="left"> Stats & Repos </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Pathfinder&theme=tokyonight&card_width=400)](https://github.com/Lxdovic/Pathfinder)
+<a href="https://github.com/Lxdovic/Lxdovic">
+  <img height="183" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lxdovic&layout=compact&langs_count=4&theme=radical" />
+</a>
+
+<a href="https://github.com/Lxdovic/Weakfish">
+  <img height="183" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Weakfish&theme=radical" />
+</a>
+
+<a href="https://github.com/Lxdovic/Chess-Challenge">
+  <img width="501" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Chess-Challenge&theme=radical" />
+</a>
+
+<a href="https://github.com/Lxdovic/IRC">
+  <img width="501" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=IRC&theme=radical" />
+</a>
