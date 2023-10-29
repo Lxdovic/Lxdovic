@@ -33,7 +33,10 @@
 </p>
 
 <h3 align="left"> Links </h3>
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Flxdovic.fr&style=for-the-badge&label=lxdovic.fr&color=%239C00FC"/>
+
+<a href="https://lxdovic.fr">
+  <img src="https://img.shields.io/website?url=https://www.lxdovic.fr&style=for-the-badge&label=lxdovic.fr&color=%239C00FC"/>
+</a>
 
 <h3 align="left"> Stats & Repos </h3>
 
