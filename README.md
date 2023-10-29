@@ -44,8 +44,8 @@
   <img width=38.5%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lxdovic&layout=compact&langs_count=4&theme=radical" />
 </a>
 
-<a href="https://github.com/Lxdovic/Weakfish">
-  <img width="60.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Weakfish&theme=radical" />
+<a href="https://github.com/Lxdovic/Lxna">
+  <img width="60.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Lxna&theme=radical" />
 </a>
 
 <a href="https://github.com/Lxdovic/Chess-Challenge">
