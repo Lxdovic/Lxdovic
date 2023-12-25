@@ -12,13 +12,14 @@
 
 <h3 align="center"> Frameworks </h3>
 <p align="center" style="margin-top: 24px">
-  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/angular%20-%23E2056E.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/phoenix%20-%23663399.svg?&style=for-the-badge&logo=phoenixframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/reactjs%20-%2338BDF8.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss%20-%2338BDF8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vuejs%20-%233FB984.svg?&style=for-the-badge&logo=vuejs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/express%20-%233AB439.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/></a>
+  <a href="https://angular.dev/"><img src="https://img.shields.io/badge/angular%20-%23E2056E.svg?&style=for-the-badge&logo=angular&logoColor=white"/></a>
+  <a href="https://www.phoenixframework.org/"><img src="https://img.shields.io/badge/phoenix%20-%23663399.svg?&style=for-the-badge&logo=phoenixframework&logoColor=white"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/reactjs%20-%2338BDF8.svg?&style=for-the-badge&logo=react&logoColor=white"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss%20-%2338BDF8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
+  <a href="https://tauri.app/"><img src="https://img.shields.io/badge/tauri%20-%2324C8D8.svg?&style=for-the-badge&logo=tauri&logoColor=white"/></a>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vuejs%20-%233FB984.svg?&style=for-the-badge&logo=vuejs&logoColor=black"/></a>
+  <a href="https://expressjs.com/fr/"><img src="https://img.shields.io/badge/express%20-%233AB439.svg?&style=for-the-badge&logo=express&logoColor=white"/></a>
 </p>
 
 <h3 align="center"> Databases </h3>
