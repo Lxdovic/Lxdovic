@@ -10,8 +10,18 @@
   <img src="https://img.shields.io/badge/csharp%20-%23360092.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
+<h3 align="center"> Favorite Frameworks </h3>
+<p align="center" style="margin-top: 24px">
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/></a>
+  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/reactjs%20-%2338BDF8.svg?&style=for-the-badge&logo=react&logoColor=white"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss%20-%2338BDF8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
+  <a href="https://tauri.app/"><img src="https://img.shields.io/badge/tauri%20-%2324C8D8.svg?&style=for-the-badge&logo=tauri&logoColor=white"/></a>
+</p>
+
 <h3 align="center"> Frameworks </h3>
 <p align="center" style="margin-top: 24px">
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/></a>
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/></a>
   <a href="https://angular.dev/"><img src="https://img.shields.io/badge/angular%20-%23E2056E.svg?&style=for-the-badge&logo=angular&logoColor=white"/></a>
   <a href="https://www.phoenixframework.org/"><img src="https://img.shields.io/badge/phoenix%20-%23663399.svg?&style=for-the-badge&logo=phoenixframework&logoColor=white"/></a>
