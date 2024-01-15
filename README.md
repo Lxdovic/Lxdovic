@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to my Github 👋</h1>
+<h1 align="center">Welcome to my Profile 👋</h1>
 
 <h1 align="center" style="margin-top: 24px"">Ludovic Debever - Fullstack Developer</h1>
 
