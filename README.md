@@ -12,7 +12,6 @@
 
 <h3 align="center"> Favorite Frameworks </h3>
 <p align="center" style="margin-top: 24px">
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/></a>
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/reactjs%20-%2338BDF8.svg?&style=for-the-badge&logo=react&logoColor=white"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss%20-%2338BDF8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
