@@ -61,9 +61,9 @@
 </a>
 
 <a href="https://github.com/Lxdovic/Chess-Challenge">
-  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Chess-Challenge&theme=radical" />
+  <img width="53%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Chess-Challenge&theme=radical" />
 </a>
 
 <a href="https://github.com/Lxdovic/rhino">
-  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=rhino&theme=radical" />
+  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=rhino&theme=radical" />
 </a>
