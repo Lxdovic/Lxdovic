@@ -5,7 +5,6 @@
 
 <h3 align="center"> Favorite Languages </h3>
 <p align="center" style="margin-top: 24px">
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/csharp%20-%23360092.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
