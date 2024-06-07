@@ -54,11 +54,11 @@
 <img src="profile-3d-contrib/profile-night-view.svg" />
 
 <a href="https://github.com/Lxdovic/Lxna">
-  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Lxna&theme=radical" />
+  <img width="53%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Lxna&theme=radical" />
 </a>
 
 <a href="https://github.com/Lxdovic/Epitech-Zoidberg">
-  <img width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Epitech-Zoidberg&theme=radical" />
+  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Epitech-Zoidberg&theme=radical" />
 </a>
 
 <a href="https://github.com/Lxdovic/Chess-Challenge">
