@@ -71,4 +71,4 @@
 
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://github.com/Lxdovic/Lxdovic/blob/main/assets/wallpaper-3.jpg?raw=true') no-repeat center center fixed;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://github.com/Lxdovic/Lxdovic/blob/main/assets/wallpaper-2.jpg?raw=true') no-repeat center center fixed;]{x0000}$}
