@@ -68,7 +68,3 @@
 <a href="https://github.com/Lxdovic/rhino">
   <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=rhino&theme=radical" />
 </a>
-
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://github.com/Lxdovic/Lxdovic/blob/main/assets/wallpaper-2.jpg?raw=true') no-repeat center center fixed;]{x0000}$}
