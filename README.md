@@ -53,18 +53,20 @@
 
 <img src="profile-3d-contrib/profile-night-view.svg" />
 
+<img width="100%" align="center" src="https://streak-stats.demolab.com/?user=Lxdovic&theme=radical&hide_border=true&border_radius=5" />
+
 <a href="https://github.com/Lxdovic/Lxna">
-  <img width="53%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Lxna&theme=radical" />
+  <img width="53%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Lxna&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/Lxdovic/Epitech-Zoidberg">
-  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Epitech-Zoidberg&theme=radical" />
+  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Epitech-Zoidberg&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/Lxdovic/Chess-Challenge">
-  <img width="53%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Chess-Challenge&theme=radical" />
+  <img width="53%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Chess-Challenge&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/Lxdovic/rhino">
-  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=rhino&theme=radical" />
+  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=rhino&theme=radical&hide_border=true" />
 </a>
