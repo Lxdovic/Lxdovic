@@ -51,7 +51,7 @@
 
 <h3 align="left"> Stats & Repos </h3>
 
-<img src="profile-3d-contrib/profile-night-view.svg" />
+[comment]: <img src="profile-3d-contrib/profile-night-view.svg" />
 
 <img width="100%" align="center" src="https://streak-stats.demolab.com/?user=Lxdovic&theme=radical&hide_border=true&border_radius=5" />
 
