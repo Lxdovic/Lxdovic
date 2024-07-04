@@ -3,12 +3,6 @@
 
 <h1 align="center" style="margin-top: 24px"">Ludovic Debever - Fullstack Developer</h1>
 
-<h3 align="left"> Links </h3>
-
-<a href="https://lxdovic.fr">
-  <img src="https://img.shields.io/website?url=https://www.lxdovic.fr&style=for-the-badge&label=lxdovic.fr&color=%239C00FC"/>
-</a>
-
 <h3> Favorite Languages </h3>
 <p style="margin-top: 24px">
   <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
