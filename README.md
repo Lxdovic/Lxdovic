@@ -3,6 +3,17 @@
 
 <h1 align="center" style="margin-top: 24px"">Ludovic Debever - Fullstack Developer</h1>
 
+I love programming existing systems from the ground up. This process allows me to gain a deep understanding of how they works. Here are all the "**from scratch**" projects I plan to make:
+
+- [x] Programming language (Interpreter, REPL, Compiler)
+- [x] Neural Networks
+- [x] Chess Engine & AI
+- [ ] Operating System
+- [ ] Search Engine
+- [ ] Database
+- [ ] 3D Graphics Renderer
+- [ ] ...
+
 <h3> Favorite Languages </h3>
 <p style="margin-top: 24px">
   <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
