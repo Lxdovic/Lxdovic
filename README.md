@@ -53,25 +53,3 @@ I love programming existing systems from the ground up. This process allows me t
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23FCA121.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-<h3> Stats & Repos </h3>
-
-[comment]: <img src="profile-3d-contrib/profile-night-view.svg" />
-
-<img width="100%" align="center" src="https://streak-stats.demolab.com/?user=Lxdovic&theme=radical&hide_border=true&border_radius=5" />
-
-<a href="https://github.com/Lxdovic/Lxna">
-  <img width="53%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Lxna&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/Lxdovic/Epitech-Zoidberg">
-  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Epitech-Zoidberg&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/Lxdovic/Chess-Challenge">
-  <img width="53%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=Chess-Challenge&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/Lxdovic/rhino">
-  <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lxdovic&repo=rhino&theme=radical&hide_border=true" />
-</a>
