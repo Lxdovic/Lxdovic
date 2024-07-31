@@ -8,7 +8,8 @@ I love programming existing systems from the ground up. This process allows me t
 - [x] Programming language (Interpreter, REPL, Compiler)
 - [x] Neural Networks
 - [x] Chess Engine & AI
-- [x] Search Engine
+- [x] Full-Text Search Engine
+- [ ] Json parser
 - [ ] Operating System
 - [ ] Database
 - [ ] 3D Graphics Renderer
