@@ -3,7 +3,7 @@
 
 <h1 align="center" style="margin-top: 24px"">Ludovic Debever - Fullstack Developer</h1>
 
-I love programming existing systems from the ground up. This process allows me to gain a deep understanding of how they work. Here are all the "**from scratch**" projects I plan to make:
+I love programming existing systems from the ground up. This allows me to gain a deep understanding of how they work. Here are all the "**from scratch**" projects I plan to make:
 
 - [x] Programming language (Interpreter, REPL, Compiler)
 - [x] Neural Networks
