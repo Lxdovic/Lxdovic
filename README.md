@@ -9,7 +9,7 @@ I love programming existing systems from the ground up. This allows me to gain a
 - [x] Neural Networks
 - [x] Chess Engine & AI
 - [x] Full-Text Search Engine
-- [ ] Json parser
+- [ ] Text Editor
 - [ ] Operating System
 - [ ] Database
 - [ ] 3D Graphics Renderer
