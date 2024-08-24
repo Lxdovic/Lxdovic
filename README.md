@@ -12,8 +12,7 @@ I love programming existing systems from the ground up. This allows me to gain a
 - [x] Text Editor
 - [ ] Operating System
 - [ ] Database
-- [ ] 3D Graphics Renderer
-- [ ] ...
+- [ ] 3D Renderer
 
 <h3> Favorite Languages </h3>
 <p style="margin-top: 24px">
