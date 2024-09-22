@@ -5,7 +5,8 @@
 
 I love programming existing systems from the ground up. This allows me to gain a deep understanding of how they work. Here are all the "**from scratch**" projects I plan to make:
 
-- [x] Programming language (Interpreter, REPL, Compiler)
+- [x] Toy Programming language (Interpreter, REPL, Compiler),
+- [ ] C Compiler
 - [x] Neural Networks
 - [x] Chess Engine & AI
 - [x] Full-Text Search Engine
