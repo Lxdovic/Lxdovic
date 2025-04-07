@@ -19,7 +19,7 @@ I love programming existing systems from the ground up. This allows me to gain a
 <p style="margin-top: 24px">
   <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/csharp%20-%23360092.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust%20-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 <h3> Favorite Frameworks </h3>
